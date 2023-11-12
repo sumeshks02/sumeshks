@@ -410,7 +410,7 @@ ul.social-ico-contact li a:hover {
     transition: all 1.8s ease-in-out;
 }
 #btn-msg:hover {
-  color: var(--wh-dar-color);
+  
   background: var(--secondary-color);
 }
 
